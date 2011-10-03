@@ -4,7 +4,7 @@ body {
     font-size: 12px;
     font-family: "Lucida Grande","DejaVu Sans","Bitstream Vera Sans",Verdana,Arial,sans-serif;
     color: #333;
-    background: #FFF8DC;
+    background: #F8FFDC;
 }
 
 div.box {
@@ -319,7 +319,7 @@ input[type=text], input[type=password], textarea, select, .vTextField {
 /* HEADER */
 
 #header {
-    background: #8B4513;
+    background: #070;
     color: #F5DEB3;
     overflow: hidden;
 }
